@@ -11,7 +11,7 @@ Autora: Lesly Montúfar
 
 Seguir os passos:
 
-1. Implementar as equações de cálculo de interências em uma rede móvel, devido à outras erb.
+1. Implementar as equações de cálculo de interferências em uma rede móvel, devido à outras erb.
 2. Apresentar um esquemático usando js, por exemplo
 
 ## Desenvolvimento
